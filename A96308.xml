@@ -1,0 +1,250 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Whereas the worshipful Company of the Mercers, London, upon a proposal made to them by the Reverend Dr. Assheton, did, by a paper dated the 8th of Febr. 1698. publish and declare in the words following: that is to say</title>
+            <author>Mercers' Company (London, England)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96308</idno>
+            <idno type="STC">Wing W1631C</idno>
+            <idno type="STC">ESTC R231144</idno>
+            <idno type="EEBO-CITATION">99896674</idno>
+            <idno type="PROQUEST">99896674</idno>
+            <idno type="VID">132569</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96308)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 132569)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2432:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Whereas the worshipful Company of the Mercers, London, upon a proposal made to them by the Reverend Dr. Assheton, did, by a paper dated the 8th of Febr. 1698. publish and declare in the words following: that is to say</title>
+                  <author>Mercers' Company (London, England)</author>
+               </titleStmt>
+               <extent>3, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1699]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Assheton, William, 1641-1711 --  Early works to 1800.</term>
+               <term>Mercers' Company (London, England) --  Early works to 1800.</term>
+               <term>Survivors' benefits --  Early works to 1800.</term>
+               <term>Clergy --  Pensions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:132569:1"/>
+            <head>WHereas the Worſhipful Company of the MERCERS, <hi>London,</hi> upon a Propoſal made to them by the Reverend Dr. <hi>Aſſheton,</hi> did, by a Paper dated the 8th of <hi>Febr.</hi> 1698. publiſh and declare in the Words following: That is to ſay,</head>
+            <byline>
+               <hi>By the</hi> Wardens <hi>and</hi> Commonalty <hi>of the Myſtery of the</hi> MERCERS, <hi>at</hi> Mercers-Hall <hi>in</hi> Cheapſide, London, <hi>the</hi> 8th <hi>Day of</hi> February, 1698.</byline>
+            <p>THE Reverend <hi>William Aſſheton,</hi> Doctor in Divinity, Rector of <hi>Beckenham</hi> in <hi>Kent,</hi> and Chaplain to his Grace the Duke of <hi>Ormond,</hi> having out of a Charitable Deſign, for the Maintenance and Relief of <hi>Widows of the Clergy,</hi> (which very fre<g ref="char:EOLhyphen"/>quently are left in a poor Condition when their Husbands dye) imploy'd his Thoughts to conſi<g ref="char:EOLhyphen"/>der of a Way for their Relief and Support; and thereupon thought of a Propoſal, in which he includes alſo others beſide <hi>Clergymen,</hi> viz. <hi>Phy<g ref="char:EOLhyphen"/>ſicians, Lawyers, Merchants, Traders,</hi> or any other Perſons that ſhall Subſcribe the Sum of 100 <abbr>
+                  <hi>l.</hi>
+               </abbr> or more, during the Time of their joint Lives; in caſe the Husband ſhall die, and leave his Wife a Widow, that then there ſhould be paid her, during her Life, the Sum of 30 <abbr>
+                  <hi>l.</hi>
+               </abbr> a Year <hi>per Cent.</hi> free of all Charges; at the two uſual Feaſts of the Annunciation of the Bleſſed <hi>Vir<g ref="char:EOLhyphen"/>gin Mary,</hi> and St. <hi>Michael</hi> the <hi>Archangel;</hi> and that the Sum to be Subſcribed ſhould be limited to 100000 <abbr>
+                  <hi>l.</hi>
+               </abbr> And in caſe the Wife dye, during her Husband's Life-time, the ſame to go to the Benefit of thoſe that did undertake the ſame.</p>
+            <p>The ſaid Reverend Dr. <hi>Aſſheton,</hi> conſidering where the ſaid Subſcription-Money might be lodged ſafely, and reaſonable Security given for the due Payment of the Widows, did think it could not be better ſecured than in the Hands of the Worſhipful Company of <hi>Mercers, London;</hi> and did at a General Court of the ſaid Company, held on <hi>Friday</hi> the 11th of <hi>November</hi> 1698, make this Propoſal to the ſaid Company; who thereupon appointed a Committee to con<g ref="char:EOLhyphen"/>ſider of the ſame, and what Security the Com<g ref="char:EOLhyphen"/>pany could give; which Committee had ſeve<g ref="char:EOLhyphen"/>ral Meetings thereupon; and having had ſeve<g ref="char:EOLhyphen"/>ral Diſcourſes with Dr. <hi>Aſſheton,</hi> and acquainted him what Eſtate they had to ſettle for Security, being clear Rents, 2888 <abbr>
+                  <hi>l.</hi>
+               </abbr> 8 <abbr>
+                  <hi>s.</hi>
+               </abbr> 10 <abbr>
+                  <hi>d.</hi>
+               </abbr>
+               <hi>per Ann.</hi> (beſides the Payments by the Benefactors to be paid out of the ſame;) which, by a moderate Calculation would yield, when the Leaſes come out, above 13500 <abbr>
+                  <hi>l.</hi>
+               </abbr> 
+               <hi>per Annum</hi> clear, as afore<g ref="char:EOLhyphen"/>ſaid; And the ſaid Dr. <hi>Aſſheton</hi> judging the ſame to be reaſonable Security, the ſaid Com<g ref="char:EOLhyphen"/>mittee made their Report to a General Court the 23d of <hi>Decemb.</hi> 1698. Which Court having read the Report of the Committee, did ſuſpend their Reſolution of the ſame for that time, and another General Court was appointed to be held the 13th of <hi>January</hi> following; that ſo all the Members of the ſaid Company might have time to conſider of the ſaid Propoſal, and the Report of the Committee thereupon; that ſo they might the better be enabled to give their Reſolutions in the whole Affair; And at the ſaid General Court the Company did ac<g ref="char:EOLhyphen"/>cept of the ſaid Propoſal. And do hereby publiſh and declare,</p>
+            <p n="1">1. That in caſe 100000 <abbr>
+                  <hi>l.</hi>
+               </abbr> ſhall be ſubſcribed and paid in to the Company in ſuch manner as is hereafter mentioned; The ſaid Company do undertake to pay unto the Widows of the Subſcribers, according to the aforeſaid Propoſi<g ref="char:EOLhyphen"/>tion, 30 <abbr>
+                  <hi>l.</hi>
+               </abbr> 
+               <hi>per Cent. per Annum,</hi> free of Taxes and Charges, at the two uſual Feaſts of the Annunciation of the Bleſſed <hi>Virgin Mary,</hi> and St. <hi>Michael</hi> the <hi>Archangel.</hi>
+            </p>
+            <p n="2">2. That for better Security of the Payments, as ſoon as the ſaid 100000 <abbr>
+                  <hi>l.</hi>
+               </abbr> ſhall be Subſcribed, the ſaid Company will ſettle and convey in due Form of Law the Lands, Houſes and Eſtate before mentioned, in Truſtees, for the due pay<g ref="char:EOLhyphen"/>ment of the ſaid Annuities.</p>
+            <p n="3">3. That all married Clergymen, and other married Perſons, Except as hereafter is Ex<g ref="char:EOLhyphen"/>cepted, that inhabit in the Kingdom of <hi>England,</hi> and do not exceed the Age of 60 Years at the time of the Payment of the Money, and re<g ref="char:EOLhyphen"/>ceiving the Company's Bond, and are then in good and perfect Health, and have Subſcribed any Sum not leſs than 50 <abbr>
+                  <hi>l.</hi>
+               </abbr> nor exceeding the Sum of 300 <abbr>
+                  <hi>l.</hi>
+               </abbr> in caſe they die in the Kingdom of <hi>England,</hi> and leave their Wives Widows, the ſaid Widows ſhall receive, as before-mentioned, the Sum of 30 <abbr>
+                  <hi>l.</hi>
+               </abbr> yearly for every 100 <abbr>
+                  <hi>l.</hi>
+               </abbr> ſo Sub<g ref="char:EOLhyphen"/>ſcribed; and ſo proportionably for a greater or leſſer Sum, as before-mentioned.</p>
+            <p n="4">4. That every Perſon at the time of his Sub<g ref="char:EOLhyphen"/>ſcription (which ſhall be made in Perſon) ſhall expreſs the Place of his Abode, the Name of his Wife, and his and her ſeveral Age in ſuch man<g ref="char:EOLhyphen"/>ner as is hereafter mentioned.</p>
+            <p n="5">5. That no Perſon that goes to Sea, nor Sol<g ref="char:EOLhyphen"/>dier that goes into the Wars, ſhall be admitted to Subſcribe to have the Benefit of this Propoſal, in regard of the Caſualties and Accidents that they are more particularly liable to.</p>
+            <p n="6">6. That the Book of Subſcriptions ſhall be laid open at <hi>Mercers-Hall</hi> on or before the Firſt day of <hi>March</hi> 1698, and ſhall continue to the 24th day of <hi>June</hi> 1699, (in caſe the 100000 <abbr>
+                  <hi>l.</hi>
+               </abbr> be not Subſcribed ſooner) and Members of the Company ſhall attend to take the ſaid Sub<g ref="char:EOLhyphen"/>ſcriptions on <hi>Tueſdays, Wedneſdays</hi> and <hi>Fridays</hi> every Week during that time, between the Hours of 9 and 12 in the Forenoon, and 3 and 6 in the Afternoon.</p>
+            <pb n="2" facs="tcp:132569:2"/>
+            <p n="7">7. That as ſoon as the ſaid 100000 <abbr>
+                  <hi>l.</hi>
+               </abbr> is Subſcribed, publick Notice ſhall be given in the <hi>Gazette;</hi> and all Perſons that have Subſcribed, are then, within 30 Days next following, to Pay in the Moneys by them Subſcribed at <hi>Mercers-Hall</hi> to the ſaid Company; for which purpoſe, Members of the ſaid Company ſhall attend on the Days and Times aforeſaid.</p>
+            <p n="8">8. That on the Payment of the Money, the Perſon ſhall have a Writing under the Seal of the Company, acknowledging the Receipt thereof; and ingaging, That if his Wife be left a Widow, ſhe ſhall receive the Mo<g ref="char:EOLhyphen"/>neys in proportion to his Subſcription as be<g ref="char:EOLhyphen"/>fore ſpecified; but unleſs the Money be actu<g ref="char:EOLhyphen"/>ally paid within the Time limited, the Widow to have no Benefit by the Subſcription; and at the ſame time the ſaid Perſon Subſcribing, ſhall give a Bond to the Company, That in caſe his Wife ſhall dye before him, to give notice to the Company thereof within one Month after her Deceaſe.</p>
+            <p n="9">9. That any Widow that ſhall have Right to receive any Annuity by this Subſcription, ſhall give notice of the Time of her Husband's Death to the Company within one Month af<g ref="char:EOLhyphen"/>ter his Deceaſe; and when ſhe comes to re<g ref="char:EOLhyphen"/>ceive the Benefit of this Propoſal, ſhall bring a Certificate, Signed by the Miniſter, Church-Warden or Church-Wardens, and Pariſh-Clerk of the Place where her Husband died and was buried, if her Husband was not a Miniſter; but if her Husband was the Miniſter of the Pariſh where he was buried, then to have the Miniſter's Hand of the next neighbouring Pa<g ref="char:EOLhyphen"/>riſh; and the other Hands as before-mentioned.</p>
+            <p n="10">10. In caſe it ſhall happen that any Man who has Subſcribed ſhall voluntarily make a<g ref="char:EOLhyphen"/>way himſelf, or by any Act of his, occaſion his own Death, either by Duelling, or committing any Crime whereby he ſhall be Sentenced and put to Death by Juſtice; in any or either of thoſe Caſes his Widow to receive no Annuity, but upon delivering up the Company's Bond, to have the Subſcription money paid to her.</p>
+            <p n="11">11. In caſe any Perſon that ſhall Subſcribe ſhall not pay in his Money within the Time limited, ſuch Perſon's Subſcription ſhall be eſteemed null and void, and the Company may admit any other Perſon, duly qualified, to Subſcribe in his ſtead.</p>
+            <p>The Form of the Subſcription.</p>
+            <p n="12">12. I A. B. <hi>inhabiting in the Pariſh of <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> in the <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> of <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> do Subſcribe and Promiſe to pay <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Pounds on the Terms before-mentioned; for the Benefit of <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> my now Wife, Aged <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Years, the Daughter of <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> of <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> in caſe I dye before her:</hi>
+            </p>
+            <p>The Obligation of the Company.</p>
+            <p n="13">13. <hi>WE the Wardens and Commonalty of the Myſtery of the</hi> Mercers <hi>of the City of</hi> London, <hi>do acknowledge to have Received of</hi> A. B. <hi>Inhabitant in the Pariſh of <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> in the <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> of <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> the Sum of <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Pounds, which he hath Subſcribed for the Benefit of <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Aged <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Years, the Daughter of <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> of <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> his preſent Wife; And we do pro<g ref="char:EOLhyphen"/>miſe and oblige our Selves, and our Succeſſors, in caſe the ſaid</hi> A. B. <hi>ſhall Dye (Except in ſuch manner as is Excepted in the General Propoſal) before his ſaid Wife, and leave her a Widow, to pay unto her, du<g ref="char:EOLhyphen"/>ring her Life, the Sum of <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Yearly, free of all Charges, being</hi> 30 <abbr>l.</abbr> per Cent. per Annum <hi>of the ſaid</hi> A. B. <hi>his Subſcription, at the two uſual Feaſts of the Annunciation of the Bleſſed</hi> Virgin Mary, <hi>and St.</hi> Michael <hi>the</hi> Archangel: <hi>The firſt Payment to be made on the firſt of the ſaid Feaſt-days that ſhall happen ſix Months or more after the Deceaſe of the ſaid</hi> A. B. <hi>ſhe producing this Obliga<g ref="char:EOLhyphen"/>tion and due Certificates of her Husband's Death. To the which Payment we bind our Selves and our Succeſſors firmly by theſe Preſents. In Teſtimony whereof, We have hereunto affixed the Seal of the ſaid Company the <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Day of <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </hi> Anno Dom. 169<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+            <p n="14">14. The Bond to be given to the Company, To be of the Penalty of the Sum Subſcribed.</p>
+            <p>The Condition to be as followeth:</p>
+            <p>
+               <hi>WHereas the above-bound</hi> A. B. <hi>hath Subſcri<g ref="char:EOLhyphen"/>bed and Paid to the Wardens and Commo<g ref="char:EOLhyphen"/>nalty of the Myſtery of the</hi> Mercers <hi>of the City of</hi> London, <hi>the Sum of <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> for the Benefit of his preſent Wife <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> the Daughter of <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> and Received an Obligation from the ſaid Company for the due Payment to his ſaid Wife, of the Sum of</hi> 30 <abbr>l.</abbr> per Cent. per Annum, <hi>in caſe ſhe ſurvives him, during her Life. Now the Condition of this Obligation is ſuch, That in caſe his ſaid Wife ſhall dye before him, if he the above-bound</hi> A. B. <hi>ſhall within</hi> 30 <hi>Days after his ſaid Wife's Deceaſe, give Notice to the ſaid Company of her Death, under his Hand and Seal, and deliver up the Obligation he had from the Company; and alſo if the ſaid</hi> A. B. <hi>ſhall remove his Habitation or Dwelling-place, and ſhall give Notice thereof to the ſaid Company within</hi> 30 <hi>Days of ſuch his Removal, with the Name of the Place and Pariſh to which he is removed; And in default of Notice to be given as aforeſaid, Then, if the ſaid</hi> A. B. <hi>his Executors, Adminiſtrators or Aſ<g ref="char:EOLhyphen"/>ſigns, ſhall pay One Pound</hi> per Cent. <hi>of his Sub<g ref="char:EOLhyphen"/>ſcription-Money for every Month he ſhall delay ſo to do; That then this Obligation to be void, and of no effect, or elſe to remain in full force.</hi>
+            </p>
+            <pb n="3" facs="tcp:132569:3"/>
+            <p>AND whereas the <hi>Subſcriptions</hi> upon the ſaid Propoſal hath not anſwer'd Expecta<g ref="char:EOLhyphen"/>tion, and may not without a longer time come up to the Sum propoſed; and the Company conſidering what might be the Reaſon thereof, do conceive it to be the Uncertainty of the Things taking Effect in the Manner propoſed, and that there was no Settlement as yet made; Have therefore at a General Court, held for the ſaid Com<g ref="char:EOLhyphen"/>pany, the 16th of <hi>June</hi> 1699, Reſolved, and do hereby publiſh and declare, That the ſaid Settlement propoſed in the former Paper, ſhall be forthwith ſettled by able Counſel in the Law, in Truſtees of undoubted Reputation and Ability, for the Benefit of the <hi>Sub<g ref="char:EOLhyphen"/>ſcribers,</hi> that ſo there might never be a failure; And any of the Perſons that have Sub<g ref="char:EOLhyphen"/>ſcribed, may, if they deſire it, have liberty to accompany the Members of the Com<g ref="char:EOLhyphen"/>pany to go with them to the Counſel to ſee the making of the ſaid Settlement; and as ſoon as the ſaid Settlement is made, Publication ſhall be made thereof; and thoſe Perſons that have Subſcribed, are to pay in their Moneys according to their Sub<g ref="char:EOLhyphen"/>ſcription.</p>
+            <p>The Company intend to proceed with Effect as ſoon as the Settlement is made, and the Money Subſcribed paid in.</p>
+            <p>And the Company will take <hi>Subſcriptions</hi> at any time hereafter, till ſuch time as the Sum of 100000 <abbr>
+                  <hi>l.</hi>
+               </abbr> be Subſcribed, but will not exceed that Sum at any one time; And in caſe of the Death of any Perſons, whereby the <hi>Subſcriptions</hi> fall off, the Company will admit any other Perſon or Perſons to Subſcribe ſuch Sum or Sums as will make up the ſaid Sum of 100000 <abbr>
+                  <hi>l.</hi>
+               </abbr> but never to exceed the ſame. And after the ſaid Set<g ref="char:EOLhyphen"/>tlement ſhall be made, every <hi>Subſcriber</hi> is to pay in the Money by him Subſcribed at the time of his Subſcription.</p>
+            <p>The Company have thought fit alſo to enlarge the Sums to be Subſcribed, <hi>viz.</hi> That all Married Men of the Age of Thirty Years, or under, may Subſcribe any Sum not exceeding 1000 <abbr>
+                  <hi>l.</hi>
+               </abbr> That all Married Men not exceeding the Age of Forty Years, may Subſcribe any Sum, not exceeding 500 <abbr>
+                  <hi>l.</hi>
+               </abbr> And that all Married Men, not exceeding the Age of Sixty Years, may Subſcribe any Sum, not exceeding 300 <abbr>
+                  <hi>l.</hi>
+               </abbr> And the <hi>Widows</hi> of all Perſons Subſcribing, according to theſe Limitations, ſhall receive the Benefit of 30 <abbr>
+                  <hi>l.</hi>
+               </abbr>
+               <hi>per Cent. per Ann.</hi> according to the former Propoſals.</p>
+            <p>The Company do alſo declare, That any Perſon (under the Limitations before<g ref="char:EOLhyphen"/>mentioned) may Subſcribe for the Uſe and Benefit of any Perſon or Perſons, as ſuch Subſcriber ſhall by his Laſt Will and Teſtament direct, during the Natural Life of his Wife, in caſe ſhe ſurvives him; Declaring in his Subſcription, That it is ſo intended, and ſuch Perſon or Perſons ſhall receive the Benefit of ſuch Subſcription accord<g ref="char:EOLhyphen"/>ingly.</p>
+            <p>That the Obligations to be given by the Company ſhall be made ſuitable to theſe Alterations, as well for thoſe that have already Subſcribed, as thoſe that ſhall Sub<g ref="char:EOLhyphen"/>ſcribe hereafter; and the Bond to be given by the <hi>Subſcribers</hi> ſhall be only of the Pe<g ref="char:EOLhyphen"/>nalty of half the Sum Subſcribed by any Perſon. And whereas in the Company's Obligation, the Firſt Payment to be made to any Widow, or other Perſon, who ſhould be entituled to any Benefit, by virtue of any Subſcription, was, by the ſaid Obligation in the former Propoſal, to be on the Firſt of the Feaſt-days therein mentioned, that ſhould happen Six Months, or more, after the Deceaſe of the Perſon or Perſons ſo Subſcribing; The Company have thought fit, and do hereby declare, That ſuch Firſt Payment ſhall be made at ſuch of the ſaid Feaſt-days which ſhall happen Four Months, or more, after the Deceaſe of the Perſon or Perſons ſo Subſcribing, and the Obligation to be made ac<g ref="char:EOLhyphen"/>cordingly.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
